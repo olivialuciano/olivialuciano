@@ -1,7 +1,6 @@
 # 👋 Olivia Luciano
 
 <div align="center">
-  <img src="./olivia.jpeg" alt="Olivia Luciano" width="200" style="border-radius: 50%;">
   
   ### ✦ Técnica en Programación | ✦ Salesforce Admin | ✦ Profesora Universitaria
   
