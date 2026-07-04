@@ -4,22 +4,7 @@
 
 ### ✦ Programming Technician ✦ Salesforce Platform Administrator & Developer ✦ University Professor
 
-<p>
-  <a href="https://www.linkedin.com/in/olivialuciano" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="32" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/olivialuciano" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/181717" height="32" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://trailblazer.me/id/olivialuciano42" target="_blank">
-    <img src="[https://cdn.simpleicons.org/salesforce/00A1E0](https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/trails/learn_salesforce_with_trailhead/b1dd8bbb94c03af5477a0ec86528b697_icon.png)" height="32" alt="Trailhead" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:olivialuciano42@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="32" alt="Email" />
-  </a>
+<p> <a href="https://www.linkedin.com/in/olivialuciano"> <img src="https://img.shields.io/badge/LinkedIn-Olivia%20Luciano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/olivialuciano"> <img src="https://img.shields.io/badge/GitHub-olivialuciano-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://trailblazer.me/id/olivialuciano42"> <img src="https://img.shields.io/badge/Trailhead-olivialuciano42-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" /> </a> <a href="mailto:olivialuciano42@gmail.com"> <img src="https://img.shields.io/badge/Email-olivialuciano42%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=24&pause=1000&color=E18AAA&center=true&vCenter=true&width=850&lines=Salesforce+Platform+Administrator+%26+Developer;Automation+%7C+Scalable+Solutions+%7C+Continuous+Improvement;University+Professor+%7C+Tech+Mentor+%7C+Lifelong+Learner" alt="Typing SVG" />
