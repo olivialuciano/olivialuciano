@@ -75,51 +75,14 @@ Bilingual education · Double schooling
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <strong>Salesforce Platform Administrator II</strong><br/>
-      <sub>Salesforce</sub><br/>
-      <sub>June 2026</sub>
-    </td>
-    <td align="center" width="33%">
-      <strong>Salesforce Business Analyst</strong><br/>
-      <sub>Salesforce</sub><br/>
-      <sub>January 2026</sub>
-    </td>
-    <td align="center" width="33%">
-      <strong>Salesforce Platform Administrator</strong><br/>
-      <sub>Salesforce</sub><br/>
-      <sub>November 2025</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <strong>Salesforce Agentforce Specialist</strong><br/>
-      <sub>Salesforce</sub><br/>
-      <sub>July 2025</sub>
-    </td>
-    <td align="center" width="33%">
-      <strong>Salesforce Platform App Builder</strong><br/>
-      <sub>Salesforce</sub><br/>
-      <sub>June 2025</sub>
-    </td>
-    <td align="center" width="33%">
-      <strong>Salesforce Platform Foundations</strong><br/>
-      <sub>Salesforce</sub><br/>
-      <sub>June 2023</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <strong>First Certificate in English</strong><br/>
-      <sub>Cambridge English</sub><br/>
-      <sub>December 2018</sub>
-    </td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+Certification	Date
+Salesforce Platform Administrator II	June 2026
+Salesforce Business Analyst	January 2026
+Salesforce Platform Administrator	November 2025
+Salesforce Agentforce Specialist	July 2025
+Salesforce Platform App Builder	June 2025
+Salesforce Platform Foundations	June 2023
+First Certificate in English	December 2018
 
 </div>
 
@@ -163,7 +126,6 @@ Trailhead is Salesforce’s official learning platform where I complete modules,
 ### ☁️ Salesforce
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge)
-![Salesforce Admin](https://img.shields.io/badge/Salesforce_Admin-00A1E0?style=for-the-badge)
 ![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge)
 ![Flows](https://img.shields.io/badge/Flows-00A1E0?style=for-the-badge)
 ![Einstein Bot](https://img.shields.io/badge/Einstein_Bot-00A1E0?style=for-the-badge)
@@ -185,7 +147,6 @@ Trailhead is Salesforce’s official learning platform where I complete modules,
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
 ![Database Design](https://img.shields.io/badge/Database_Design-8A2BE2?style=for-the-badge)
-![Data Modeling](https://img.shields.io/badge/Data_Modeling-8A2BE2?style=for-the-badge)
 
 ### 🛠️ Tools & Methodologies
 
@@ -270,27 +231,7 @@ Trailhead is Salesforce’s official learning platform where I complete modules,
 
 <div align="center">
 
-<p>
-  <a href="mailto:olivialuciano42@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="32" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="tel:+5493413478225">
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="32" alt="Phone" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/olivialuciano" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="32" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/olivialuciano" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/181717" height="32" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://trailblazer.me/id/olivialuciano42" target="_blank">
-    <img src="https://cdn.simpleicons.org/salesforce/00A1E0" height="32" alt="Trailhead" />
-  </a>
-</p>
+<p> <a href="mailto:olivialuciano42@gmail.com"> <img src="https://img.shields.io/badge/Email-olivialuciano42%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="tel:+5493413478225"> <img src="https://img.shields.io/badge/Phone-%2B54%209%20341%20347%208225-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/olivialuciano"> <img src="https://img.shields.io/badge/LinkedIn-Olivia%20Luciano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/olivialuciano"> <img src="https://img.shields.io/badge/GitHub-olivialuciano-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://trailblazer.me/id/olivialuciano42"> <img src="https://img.shields.io/badge/Trailhead-olivialuciano42-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" /> </a> </p>
 
 📍 Rosario, Santa Fe, Argentina  
 🎂 31/05/2003  
