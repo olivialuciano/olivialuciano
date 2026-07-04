@@ -14,7 +14,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://trailblazer.me/id/olivialuciano42" target="_blank">
-    <img src="https://cdn.simpleicons.org/salesforce/00A1E0" height="32" alt="Trailhead" />
+    <img src="[https://cdn.simpleicons.org/salesforce/00A1E0](https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/trails/learn_salesforce_with_trailhead/b1dd8bbb94c03af5477a0ec86528b697_icon.png)" height="32" alt="Trailhead" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:olivialuciano42@gmail.com">
