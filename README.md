@@ -5,27 +5,30 @@
 ### ✦ Programming Technician ✦ Salesforce Platform Administrator & Developer ✦ University Professor
 
 <p>
-  <a href="https://www.linkedin.com/in/olivialuciano">
-    <img src="https://img.shields.io/badge/LinkedIn-Olivia%20Luciano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/olivialuciano" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="32" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/olivialuciano">
-    <img src="https://img.shields.io/badge/GitHub-olivialuciano-100000?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/olivialuciano" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/181717" height="32" alt="GitHub" />
   </a>
-  <a href="https://trailblazer.me/id/olivialuciano42">
-    <img src="https://img.shields.io/badge/Trailhead-olivialuciano42-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://trailblazer.me/id/olivialuciano42" target="_blank">
+    <img src="https://cdn.simpleicons.org/salesforce/00A1E0" height="32" alt="Trailhead" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:olivialuciano42@gmail.com">
-    <img src="https://img.shields.io/badge/Email-olivialuciano42%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="32" alt="Email" />
   </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=24&pause=1000&color=E18AAA&center=true&vCenter=true&width=800&lines=Salesforce+Platform+Administrator+%26+Developer;Automation+%7C+Scalable+Solutions+%7C+Continuous+Improvement;University+Professor+%7C+Tech+Mentor+%7C+Lifelong+Learner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=24&pause=1000&color=E18AAA&center=true&vCenter=true&width=850&lines=Salesforce+Platform+Administrator+%26+Developer;Automation+%7C+Scalable+Solutions+%7C+Continuous+Improvement;University+Professor+%7C+Tech+Mentor+%7C+Lifelong+Learner" alt="Typing SVG" />
 
 <br />
 
-📍 Rosario, Santa Fe, Argentina
-🌎 Spanish Native · English B2 / Advanced
-💼 Available for freelance and contract opportunities
+📍 Rosario, Santa Fe, Argentina  
+🌎 Spanish Native · English B2 / Advanced  
+💼 Available for freelance and contract opportunities  
 
 </div>
 
@@ -33,100 +36,52 @@
 
 ## ✿ About Me
 
-Hello! I'm **Olivia Luciano**, a **University Programming Technician**, **Salesforce Platform Administrator & Developer**, and **University Professor**.
+Hello, I'm **Olivia**, a **University Programming Technician**, **Salesforce Platform Administrator & Developer**, and **University Professor**.
 
-I have solid experience in **functional requirements analysis**, **scalable solution design**, and **process automation** within the Salesforce ecosystem. I have worked in production environments performing advanced configuration, Apex development, Flow creation, validation rules, data model optimization, and bulk data management using Data Loader.
+I have solid experience in **functional requirements analysis**, **scalable solution design**, and **process automation** within the Salesforce ecosystem. I have worked in production environments performing advanced configuration, Apex development, Flow creation, validation rules, data model optimization, and bulk data management using **Data Loader**.
 
 I also designed and implemented an **Einstein Bot** for channels such as **WhatsApp and Chat**, improving user experience and optimizing automated customer interactions.
 
-Additionally, I developed a **Bash toolkit** to automate key development lifecycle tasks such as deployment package generation, validation processes, branch management, and deployments using **Salesforce CLI and Git**, significantly reducing manual effort and improving operational efficiency.
+Additionally, I developed a **Bash toolkit** to automate key development lifecycle tasks such as deployment package generation, validation processes, and branch management using **Salesforce CLI** and **Git**, significantly reducing manual effort and improving operational efficiency.
 
-I am known for my analytical mindset, structured approach, clear documentation skills, and strong focus on continuous improvement. My university teaching experience strengthened my technical leadership, communication abilities, and capacity to guide teams through complex projects.
+I am known for my analytical mindset, structured approach, clear documentation skills, and strong focus on continuous improvement. My university teaching experience strengthened my communication, mentoring, and leadership skills.
 
-I am actively seeking new professional opportunities where I can contribute technical value, take on high-impact challenges, and continue growing within innovative and scalable environments.
+I am actively seeking new opportunities where I can contribute technical value, take on high-impact challenges, and continue growing in innovative environments.
 
 ---
 
 ## ✿ Professional Experience
 
-### 🏥 Salesforce Administrator — Avalian Salud
-
+### 🏥 Salesforce Administrator — Avalian Salud  
 **Aug 2023 – Feb 2026**
 
-I conducted requirements gathering and analysis, developed solutions, and performed manual testing. I used **Data Loader** to manage bulk data and analyzed the impact of Salesforce release updates on the organization.
+- Gathered and analyzed requirements, configured Salesforce solutions, and performed manual testing in production environments.
+- Built automations using **Flow**, **Apex Triggers**, **Einstein Bot**, and **Data Loader** for bulk data operations.
+- Developed a **Bash toolkit** with **Salesforce CLI** and **Git** to automate deployments, validations, and branch management.
 
-I also developed an **Einstein Bot** for channels such as WhatsApp and Chat and implemented automations using **Flow** and **Apex Triggers**.
-
-Additionally, I developed a **Bash toolkit** that automated key development lifecycle tasks, including deployment package generation, branch management, and deployments to different orgs using **Salesforce CLI** and **Git**.
-
-I consistently focused on optimizing and simplifying processes to improve operational efficiency.
-
-**Main responsibilities and tools:**
-
-* Functional requirements analysis
-* Salesforce configuration and administration
-* Advanced Salesforce automation
-* Flow creation and troubleshooting
-* Apex Triggers and SOQL
-* Validation rules and data model optimization
-* Bulk data management with Data Loader
-* Einstein Bot implementation
-* Manual testing and UAT support
-* Salesforce Release Updates analysis
-* Metadata management and deployments
-* Bash scripting and Salesforce CLI
-* Git, GitHub, Bitbucket, Jira, and VS Code
-
----
-
-### 🎓 University Professor — Universidad Austral
-
+### 🎓 University Professor — Universidad Austral  
 **May 2024 – Feb 2026**
 
-I teach the **Project Management** course for the University Programming Technician degree.
+- Taught **Project Management** in the University Programming Technician program.
+- Facilitated Salesforce learning and guided students through CRM concepts and practical activities.
+- Taught the elective **Salesforce** course and an additional Salesforce seminar.
 
-I am also a **Salesforce facilitator**, guiding students through their CRM learning journey. Additionally, I teach the elective course **Salesforce** and offer an optional seminar focused on Salesforce fundamentals and practical use cases.
-
-**Main areas:**
-
-* Project management
-* Salesforce fundamentals
-* CRM learning guidance
-* Software project documentation
-* Technical mentoring
-* Student project support
-
----
-
-### 🎓 University Professor — UTN
-
+### 🎓 University Professor — UTN  
 **Aug 2024 – Dec 2024**
 
-I taught the **System Methodologies** course, covering agile methodologies, Scrum, user experience, and requirements management.
-
-Additionally, I supervised the **Supervised Professional Practice**, guiding students in the development of their final career project.
-
-**Main areas:**
-
-* Agile methodologies
-* Scrum
-* UX
-* Requirements management
-* Final project supervision
-* Professional practice mentoring
+- Taught **System Methodologies**, covering **Agile**, **Scrum**, **UX**, and **requirements management**.
+- Supervised students during their **Professional Practice** and guided them in the development of their final projects.
 
 ---
 
 ## ✿ Education
 
-### 🏛️ University Programming Technician — Universidad Austral
-
-**Mar 2022 – Feb 2024**
+### 🏛️ University Programming Technician — Universidad Austral  
+**Mar 2022 – Feb 2024**  
 **GPA:** 9.21 / 10
 
-### 🏫 San Bartolomé School
-
-**2016 – 2020**
+### 🏫 San Bartolomé School  
+**2016 – 2020**  
 Bilingual education · Double schooling
 
 ---
@@ -135,15 +90,51 @@ Bilingual education · Double schooling
 
 <div align="center">
 
-| Certification                        | Date          |
-| ------------------------------------ | ------------- |
-| Salesforce Platform Administrator II | June 2026     |
-| Salesforce Business Analyst          | January 2026  |
-| Salesforce Platform Administrator    | November 2025 |
-| Salesforce Agentforce Specialist     | July 2025     |
-| Salesforce Platform App Builder      | June 2025     |
-| Salesforce Platform Foundations      | June 2023     |
-| First Certificate in English         | December 2018 |
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>Salesforce Platform Administrator II</strong><br/>
+      <sub>Salesforce</sub><br/>
+      <sub>June 2026</sub>
+    </td>
+    <td align="center" width="33%">
+      <strong>Salesforce Business Analyst</strong><br/>
+      <sub>Salesforce</sub><br/>
+      <sub>January 2026</sub>
+    </td>
+    <td align="center" width="33%">
+      <strong>Salesforce Platform Administrator</strong><br/>
+      <sub>Salesforce</sub><br/>
+      <sub>November 2025</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <strong>Salesforce Agentforce Specialist</strong><br/>
+      <sub>Salesforce</sub><br/>
+      <sub>July 2025</sub>
+    </td>
+    <td align="center" width="33%">
+      <strong>Salesforce Platform App Builder</strong><br/>
+      <sub>Salesforce</sub><br/>
+      <sub>June 2025</sub>
+    </td>
+    <td align="center" width="33%">
+      <strong>Salesforce Platform Foundations</strong><br/>
+      <sub>Salesforce</sub><br/>
+      <sub>June 2023</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <strong>First Certificate in English</strong><br/>
+      <sub>Cambridge English</sub><br/>
+      <sub>December 2018</sub>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 </div>
 
@@ -154,7 +145,7 @@ Bilingual education · Double schooling
 <div align="center">
 
 <p>
-  <a href="https://trailblazer.me/id/olivialuciano42">
+  <a href="https://trailblazer.me/id/olivialuciano42" target="_blank">
     <img src="https://img.shields.io/badge/View%20my%20Trailhead%20profile-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
   </a>
 </p>
@@ -178,119 +169,50 @@ Bilingual education · Double schooling
 
 </div>
 
-Trailhead is Salesforce's official learning platform where I complete modules, projects, and hands-on superbadges to deepen my technical knowledge and strengthen my Salesforce skills.
+Trailhead is Salesforce’s official learning platform where I complete modules, projects, and hands-on superbadges to deepen my technical knowledge.
 
 ---
 
 ## ✿ Technical Skills
 
-### ☁️ Salesforce Ecosystem
+### ☁️ Salesforce
 
-<p>
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Salesforce%20Admin-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flows-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Einstein%20Bot-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Loader-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Salesforce%20CLI-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-</p>
-
-* Salesforce Administration
-* Salesforce Platform configuration
-* Users, profiles, permissions, and access management
-* Flows and automation
-* Apex Triggers
-* SOQL
-* Validation Rules
-* Data Loader
-* Einstein Bot
-* Release Updates analysis
-* Metadata management
-* Salesforce CLI
-* Deployment processes
-
----
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge)
+![Salesforce Admin](https://img.shields.io/badge/Salesforce_Admin-00A1E0?style=for-the-badge)
+![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge)
+![Flows](https://img.shields.io/badge/Flows-00A1E0?style=for-the-badge)
+![Einstein Bot](https://img.shields.io/badge/Einstein_Bot-00A1E0?style=for-the-badge)
+![SOQL](https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge)
+![Data Loader](https://img.shields.io/badge/Data_Loader-00A1E0?style=for-the-badge)
+![Salesforce CLI](https://img.shields.io/badge/Salesforce_CLI-00A1E0?style=for-the-badge)
 
 ### 💻 Development
 
-<p>
-  <img src="https://img.shields.io/badge/React%20JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/.NET%20(C%23)-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/API%20REST-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-</p>
-
-* React JS
-* .NET / C#
-* REST APIs
-* Python
-* Selenium
-* Web scraping
-* Frontend development
-* Backend development
-
----
+![React JS](https://img.shields.io/badge/React_JS-20232A?style=for-the-badge)
+![.NET C#](https://img.shields.io/badge/.NET_(C%23)-512BD4?style=for-the-badge)
+![REST API](https://img.shields.io/badge/API_REST-FF6C37?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge)
 
 ### 🗄️ Databases
 
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database%20Design-8A2BE2?style=for-the-badge" />
-</p>
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
+![Database Design](https://img.shields.io/badge/Database_Design-8A2BE2?style=for-the-badge)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-8A2BE2?style=for-the-badge)
 
-* SQL
-* SQL Server
-* Database design
-* Data modeling
-* Bulk data operations
+### 🛠️ Tools & Methodologies
 
----
-
-### 🛠️ Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bitbucket-0747A6?style=for-the-badge&logo=bitbucket&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-</p>
-
-* Git
-* GitHub
-* Bitbucket
-* Bash
-* Jira
-* Salesforce CLI
-* VS Code
-* Branch management
-* Deployment automation
-
----
-
-### 📌 Methodologies
-
-<p>
-  <img src="https://img.shields.io/badge/Agile%20Methodologies-2496ED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Requirements%20Management-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UX-FF69B4?style=for-the-badge" />
-</p>
-
-* Agile methodologies
-* Scrum
-* Kanban
-* Jira
-* Requirements management
-* Functional analysis
-* UX
-* Documentation
-* Project management
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-2496ED?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/Scrum-2496ED?style=for-the-badge)
+![Kanban](https://img.shields.io/badge/Kanban-2496ED?style=for-the-badge)
+![Requirements Management](https://img.shields.io/badge/Requirements_Management-8A2BE2?style=for-the-badge)
+![UX](https://img.shields.io/badge/UX-FF69B4?style=for-the-badge)
 
 ---
 
@@ -300,19 +222,17 @@ Trailhead is Salesforce's official learning platform where I complete modules, p
 
 **Job portal connecting sports and physical education professionals with institutions in the city of Rosario.**
 
-Busco Profe is a job portal designed to simplify the connection between professionals from the sports and physical education field and institutions looking for talent in Rosario.
-
 **Tech:** React JS, .NET 10, SQL Server
 
 <p>
-  <a href="https://busco-profe.vercel.app/">
-    <img src="https://img.shields.io/badge/View%20Project-FFB6C1?style=for-the-badge&logo=vercel&logoColor=black" />
+  <a href="https://busco-profe.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View_Project-FFB6C1?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
-  <a href="https://github.com/olivialuciano/BuscoProfe">
-    <img src="https://img.shields.io/badge/Frontend%20Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/olivialuciano/BuscoProfe" target="_blank">
+    <img src="https://img.shields.io/badge/Frontend_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/olivialuciano/BuscoProfeApi">
-    <img src="https://img.shields.io/badge/API%20Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/olivialuciano/BuscoProfeApi" target="_blank">
+    <img src="https://img.shields.io/badge/API_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -322,19 +242,17 @@ Busco Profe is a job portal designed to simplify the connection between professi
 
 **Comprehensive digital directory of shops, gastronomy, and professional resources for the local vegan community.**
 
-A complete digital guide for vegan and non-vegan people who want to discover vegan-friendly places, services, and resources in Rosario. It includes restaurants, cafés, bakeries, ice cream shops, markets, health professionals, informative resources, and activism spaces.
-
 **Tech:** React JS, .NET 6, SQL Server
 
 <p>
-  <a href="https://guia-vegana-rosario.onrender.com/">
-    <img src="https://img.shields.io/badge/View%20Project-90EE90?style=for-the-badge&logo=render&logoColor=black" />
+  <a href="https://guia-vegana-rosario.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/View_Project-90EE90?style=for-the-badge&logo=render&logoColor=black" />
   </a>
-  <a href="https://github.com/olivialuciano/Guia-Vegana-Frontend">
-    <img src="https://img.shields.io/badge/Frontend%20Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/olivialuciano/Guia-Vegana-Frontend" target="_blank">
+    <img src="https://img.shields.io/badge/Frontend_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/olivialuciano/Guia-Vegana-API">
-    <img src="https://img.shields.io/badge/API%20Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/olivialuciano/Guia-Vegana-API" target="_blank">
+    <img src="https://img.shields.io/badge/API_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -344,50 +262,22 @@ A complete digital guide for vegan and non-vegan people who want to discover veg
 
 **Console app that compares prices across different Rosario supermarkets.**
 
-A Python console application that asks the user for a product name and compares prices across different supermarkets in Rosario to help find the cheapest option.
-
 **Tech:** Python, Selenium
 
 <p>
-  <a href="https://github.com/olivialuciano/automatizacion_web_py">
-    <img src="https://img.shields.io/badge/View%20Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/olivialuciano/automatizacion_web_py" target="_blank">
+    <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## ✿ GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=olivialuciano&show_icons=true&theme=radical&hide_border=true" alt="Olivia Luciano GitHub Stats" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=olivialuciano&theme=radical&hide_border=true" alt="Olivia Luciano GitHub Streak" />
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivialuciano&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
-</div>
-
----
-
 ## ✿ Soft Skills
 
-* Analytical thinking
-* Structured problem solving
-* Clear documentation
-* Effective communication
-* Technical leadership
-* Continuous improvement mindset
-* Empathy
-* Teaching and mentoring
-* Team guidance
-* Proactivity
-* Organization
-* Attention to detail
+- Analytical thinking & problem solving
+- Clear communication & technical documentation
+- Organization, proactivity & attention to detail
+- Mentoring, teamwork & continuous improvement
 
 ---
 
@@ -397,25 +287,29 @@ A Python console application that asks the user for a product name and compares 
 
 <p>
   <a href="mailto:olivialuciano42@gmail.com">
-    <img src="https://img.shields.io/badge/Email-olivialuciano42%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="32" alt="Email" />
   </a>
+  &nbsp;&nbsp;
   <a href="tel:+5493413478225">
-    <img src="https://img.shields.io/badge/Phone-%2B54%209%20341%20347%208225-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="32" alt="Phone" />
   </a>
-  <a href="https://www.linkedin.com/in/olivialuciano">
-    <img src="https://img.shields.io/badge/LinkedIn-Olivia%20Luciano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/olivialuciano" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="32" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/olivialuciano">
-    <img src="https://img.shields.io/badge/GitHub-olivialuciano-100000?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/olivialuciano" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/181717" height="32" alt="GitHub" />
   </a>
-  <a href="https://trailblazer.me/id/olivialuciano42">
-    <img src="https://img.shields.io/badge/Trailhead-olivialuciano42-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://trailblazer.me/id/olivialuciano42" target="_blank">
+    <img src="https://cdn.simpleicons.org/salesforce/00A1E0" height="32" alt="Trailhead" />
   </a>
 </p>
 
-📍 Rosario, Santa Fe, Argentina
-🎂 31/05/2003
-💼 Available for freelance and contract opportunities
+📍 Rosario, Santa Fe, Argentina  
+🎂 31/05/2003  
+💼 Available for freelance and contract opportunities  
 
 </div>
 
